@@ -1,3 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://github.com/soicau24hclub/soicau24h-club</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://github.com/soicau24hclub/soicau24h-ai-analysis</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://github.com/soicau24hclub/soicau24h-loto-statistics</loc>
+    <priority>0.7</priority>
+  </url>
+  ...
+</urlset>
+
 📊 Soi Cầu Miền Bắc Chính Xác bằng AI – Phân Tích Dự Đoán Xổ Số
 Soicau24h-AI-Analysis là công cụ sử dụng trí tuệ nhân tạo (AI) để phân tích kết quả xổ số miền Bắc, giúp người chơi dự đoán các con số chuẩn xác mỗi ngày.
 
